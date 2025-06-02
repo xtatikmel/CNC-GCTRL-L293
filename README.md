@@ -55,8 +55,10 @@ python gctrl.py
 - **¡EMERGENCIA!**: Detiene inmediatamente la máquina
 
 ## Capturas de Pantalla
-[Aquí se agregarán las capturas de pantalla de la aplicación]
+
 ![Interfaz Principal](images/running.png)
+
+![Interfaz Complete](images/complete.png)
 ## Contribuciones
 Las contribuciones son bienvenidas. Por favor, abre un issue para discutir los cambios propuestos.
 
