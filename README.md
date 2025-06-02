@@ -56,7 +56,7 @@ python gctrl.py
 
 ## Capturas de Pantalla
 [Aquí se agregarán las capturas de pantalla de la aplicación]
-
+![Interfaz Principal](images/running.png)
 ## Contribuciones
 Las contribuciones son bienvenidas. Por favor, abre un issue para discutir los cambios propuestos.
 
