@@ -67,3 +67,9 @@ Las contribuciones son bienvenidas. Por favor, abre un issue para discutir los c
 
 ## Contacto
 [Agregar información de contacto] 
+
+## Referencias 
+
+https://www.marginallyclever.com/2013/08/how-to-build-an-2-axis-arduino-cnc-gcode-interpreter/
+https://github.com/damellis/gctrl
+https://github.com/MakerBlock/TinyCNC-Sketches/tree/master
