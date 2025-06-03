@@ -74,3 +74,4 @@ https://www.marginallyclever.com/2013/08/how-to-build-an-2-axis-arduino-cnc-gcod
 https://github.com/damellis/gctrl
 https://github.com/MakerBlock/TinyCNC-Sketches/tree/master
 https://www.instructables.com/search/?q=cnc%20l293&projects=featured
+https://wiki.opensourceecology.org/wiki/Gctrl#Problems_and_Solutions
